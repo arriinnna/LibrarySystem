@@ -1,0 +1,96 @@
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainAppWindow.baml
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainAppWindow.g.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\BookReservationWindow.baml
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\BookReservationWindow.g.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ReaderCabinetWindow.baml
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ReaderCabinetWindow.g.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AddBookWindow.baml
+C:\Users\canek\source\repos\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AddBookWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AddBookWindow.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AdminWindow.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\BookReservationWindow.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainAppWindow.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ReaderCabinetWindow.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AddBookWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AdminWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\BookReservationWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainAppWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ReaderCabinetWindow.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window1.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\FlowDocument1.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window1.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window2.g.cs
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window2.baml
