@@ -65,13 +65,11 @@ C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\bin\Debug\net8.0-windows\runtimes
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AddBookWindow.baml
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AdminWindow.baml
-C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\BookReservationWindow.baml
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainAppWindow.baml
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ReaderCabinetWindow.baml
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AddBookWindow.g.cs
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\AdminWindow.g.cs
-C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\BookReservationWindow.g.cs
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainAppWindow.g.cs
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\ReaderCabinetWindow.g.cs
@@ -94,3 +92,4 @@ C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\FlowDocu
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window1.baml
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window2.g.cs
 C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\Window2.baml
+C:\Users\Arina\Desktop\Wpf Lib\Wpf Lib\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json

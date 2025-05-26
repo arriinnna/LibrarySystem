@@ -11,9 +11,6 @@
     <Compile Update="App.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="BookReservationWindow.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Update="MainAppWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
